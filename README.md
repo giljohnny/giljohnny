@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @giljohnny
-- 👀 I’m interested in software engineering, data analysis, data mining, cyber security
-- 🌱 I’m currently learning python and html.
+- 👀 I’m interested in software engineering, data analysis, data mining, business intelligence
+- 🌱 I’m currently honing my skills in python and sql.
 - 💞️ I’m looking to collaborate on anything fun and useful.
 - 📫 How to reach me: https://www.linkedin.com/in/gilxhontoci/
