@@ -19,4 +19,4 @@
 - ⚙️ Software Engineering
 
 ### 📫 Connect With Me
-- LinkedIn: [add-your-link](https://www.linkedin.com/in/gilxhontoci/)
+- LinkedIn(https://www.linkedin.com/in/gilxhontoci/)
